@@ -1,0 +1,8 @@
+bvlc_alexnet/init_net.pb filter=lfs diff=lfs merge=lfs -text
+bvlc_alexnet/predict_net.pb filter=lfs diff=lfs merge=lfs -text
+bvlc_googlenet/init_net.pb filter=lfs diff=lfs merge=lfs -text
+bvlc_googlenet/predict_net.pb filter=lfs diff=lfs merge=lfs -text
+bvlc_reference_caffenet/init_net.pb filter=lfs diff=lfs merge=lfs -text
+bvlc_reference_caffenet/predict_net.pb filter=lfs diff=lfs merge=lfs -text
+bvlc_reference_rcnn_ilsvrc13/init_net.pb filter=lfs diff=lfs merge=lfs -text
+bvlc_reference_rcnn_ilsvrc13/predict_net.pb filter=lfs diff=lfs merge=lfs -text
